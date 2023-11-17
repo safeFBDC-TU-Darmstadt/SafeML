@@ -143,6 +143,6 @@ on the head node (replace <code>${evaluation_script}</code> with the desired eva
 
 ## Publication ##
 
-Meghdad Mirabi, René Klaus Nikiel, and Carsten Binnig. (2023). **SafeML: A Privacy-Preserving Byzantine-Robust Framework for Distributed Machine Learning Training**. In: The 1st International Workshop on Trustworthy Knowledge Discovery and Data Mining (TrustKDD), Joint Workshop at IEEE International Conference on Data Mining 2023 (ICDM2023), Shanghai, China, 1-4 December, 2023.
+Meghdad Mirabi, René Klaus Nikiel, and Carsten Binnig. (2023). **SafeML: A Privacy-Preserving Byzantine-Robust Framework for Distributed Machine Learning Training**. In: The 1st International Workshop on Trustworthy Knowledge Discovery and Data Mining (TrustKDD), Joint Workshop at IEEE International Conference on Data Mining 2023 (IEEE ICDM2023), Shanghai, China, 1-4 December, 2023.
 <p dir="auto"><a href="https://github.com/safeFBDC-TU-Darmstadt/SafeML/blob/master/SafeML-Paper.pdf
 ">The paper is available here.</a></p>
