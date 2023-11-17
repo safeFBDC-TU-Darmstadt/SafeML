@@ -1,4 +1,4 @@
-# SafeML: A Privacy-Preserving Byzantine-Robust Framework for Distributed Machine Learning Training
+# SafeML: A Privacy-Preserving Byzantine-Robust Framework for Distributed Machine Learning
 
 SafeML is a distributed machine learning framework that can address privacy and Byzantine robustness  concerns during 
 model training. It employs secret sharing and data randomization techniques to secure all computations, while also 
